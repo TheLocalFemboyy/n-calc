@@ -1,0 +1,2 @@
+# n-calc
+Nice % Calculator
